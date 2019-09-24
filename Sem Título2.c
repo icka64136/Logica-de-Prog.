@@ -1,21 +1,13 @@
 #include<stdio.h>
 main()
-{
-	int x,y;
-	printf("Digite o primeiro valor\n");
+{ int x;
+	printf("Digite um valor \n");
 	scanf("%d",&x);
-	printf("Digite outro valor\n");
-	scanf("%d",&y);
-	
-	if(x>y) { printf("O Maior : %d \n",x);
-	}
-	else
-	if (x<y){ printf("O Maior : %d \n",y);
-	}
-	else { printf(" Iguais");
-	}
-	
-	
+	if  (x>0)
+{ printf(" Numero digitado Positivo \n");
+}
+else 	{ printf(" Numero Digitado Negativo \n");
+}
 	
 	
 }
