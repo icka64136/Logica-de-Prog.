@@ -24,5 +24,5 @@ main()
 	printf("Fora do intervalo : %d \n",contf);
 	
 }
-// Escrever um algoritmo que lê 10 valores, um de cada vez, e conta quantos deles estão no intervalo [10 e 20]
-//  e quantos deles estão fora do intervalo, escrevendo estas informações.
+// Escrever um algoritmo que lÃª 10 valores, um de cada vez, e conta quantos deles estÃ£o no intervalo [10 e 20]
+//  e quantos deles estÃ£o fora do intervalo, escrevendo estas informaÃ§Ãµes.
